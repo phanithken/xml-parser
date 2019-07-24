@@ -1,0 +1,23 @@
+{
+  "name": "xml-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "exceljs": "^1.11.0",
+    "html-to-text": "^5.1.1",
+    "rxjs": "^6.5.2",
+    "xlsx": "^0.14.4",
+    "xml-js": "^1.6.11",
+    "xml-to-json-stream": "^1.1.0",
+    "xml2js": "^0.4.19",
+    "xml2json": "^0.11.2",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenphanith",
+  "license": "ISC"
+}
