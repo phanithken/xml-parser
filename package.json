@@ -12,7 +12,7 @@
     "xml-to-json-stream": "^1.1.0",
     "xml2js": "^0.4.19",
     "xml2json": "^0.11.2",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {},
   "scripts": {
